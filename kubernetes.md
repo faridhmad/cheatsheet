@@ -1,5 +1,3 @@
-Absolutely! Here's a comprehensive Kubernetes cheat sheet in Markdown format, covering the most essential and frequently used commands and concepts:
-
 # Kubernetes Cheatsheet
 
 This cheat sheet provides a quick reference for essential Kubernetes commands, covering object management, deployments, services, troubleshooting, and more.
